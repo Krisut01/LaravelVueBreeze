@@ -18,5 +18,10 @@ class Todo extends Model
         'title',
         'description',
         'completed',
+        
+        
     ];
+
+    public $timestamps = true;
 }
+
