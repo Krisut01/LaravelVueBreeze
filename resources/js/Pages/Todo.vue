@@ -54,7 +54,13 @@
     </ul>
   </div>
 </template>
-
+<style src="/resources/js/Pages/src/TodoApp.css"></style>
 <script src="/resources/js/Pages/src/TodoApp.js"></script>
 
-<style src="/resources/js/Pages/src/TodoApp.css"></style>
+<script>
+
+</script>
+
+<style scoped>
+  
+</style>
